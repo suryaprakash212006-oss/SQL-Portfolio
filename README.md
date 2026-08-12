@@ -29,6 +29,8 @@ This repository contains my SQL practice assignments completed as part of my Dat
 
 - MySQL
 - SQL
+  Author
+  M Surya Prakash
   
   Author
   M Surya Prakash
