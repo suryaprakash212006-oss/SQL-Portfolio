@@ -37,4 +37,4 @@ This repository contains my SQL practice assignments completed as part of my Dat
 
 ## Author
 
-**SR VIDYA**
+**M Surya Prakash**
